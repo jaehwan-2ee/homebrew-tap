@@ -1,0 +1,14 @@
+Casks/pitex.rb
+  h_bcbc8ae9e599aa 11,16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5ab5eb29ed0fa84e22904b84af5a54c7fc37aa85",
+  "prompts": {},
+  "humans": {
+    "h_bcbc8ae9e599aa": {
+      "author": "jaehwan-2ee <jh.lee@kaist.ac.kr>"
+    }
+  }
+}
