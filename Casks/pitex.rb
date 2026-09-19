@@ -8,12 +8,12 @@ cask "pitex" do
   homepage "https://github.com/jaehwan-2ee/pitex"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Pitex.app"
 
   zap trash: [
-    "~/Library/Application Support/app.pitex.desktop",
+    "~/Library/Application Support/Pitex",
     "~/Library/Caches/app.pitex.desktop",
     "~/Library/Preferences/app.pitex.desktop.plist",
   ]
