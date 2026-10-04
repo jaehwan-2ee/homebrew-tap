@@ -1,6 +1,6 @@
 cask "pitex" do
-  version "2.2.2"
-  sha256 "a8771b778c4de38d1a2001820d142a9506665824ddc60cbed860f0c88163d0aa"
+  version "2.2.3"
+  sha256 "331e879f1979880bb14239adc67ba464da251d5396a181aaf9f33d183704ca62"
 
   url "https://github.com/jaehwan-2ee/pitex/releases/download/v#{version}/Pitex-v#{version}-macos-arm64.dmg"
   name "Pitex"
