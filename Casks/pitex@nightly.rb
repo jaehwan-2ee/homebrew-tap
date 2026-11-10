@@ -1,6 +1,6 @@
 cask "pitex@nightly" do
-  version "1.0.8-nightly.202610282222"
-  sha256 "9a38dbac9f98440e3e63e587cbd6ba294f4d5db196fcc20062508c3842418dae"
+  version "1.0.8-nightly.202611102259"
+  sha256 "b9a31981640984ba22b7e74106169d7390bab044f7f7f5ecd409d8079cf7eaee"
   url "https://github.com/jaehwan-2ee/pitex/releases/download/nightly/Pitex-Nightly-#{version}-macos-arm64.dmg"
   name "Pitex Nightly"
   desc "Native LaTeX environment"
